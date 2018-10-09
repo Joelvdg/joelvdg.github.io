@@ -32,7 +32,7 @@ img {
 }
 
 #text {
-	width:600px;
+	width:545px;
 	height:100%;
 	background-color:#999999;
 	margin-left: auto;
@@ -42,8 +42,8 @@ img {
 }
 
 #image {
-	width: 47%;
-	height: 100%;
+	width: 500px;
+	height: 560px;
 	background-color:#999999;
 	margin-left: auto;
 	margin-right: auto;
