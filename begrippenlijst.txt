@@ -1,0 +1,69 @@
+fysieke laag; eerste laag uit het OSI-Model,het bestaat uit hardware en het beschrijft drie zaken; het vertalen van binaire informatie in eens signaal en andersom
+
+hardware; fysieke componenten die een rol spelen in een computer 
+
+logische laag: de logische laag bestaat uit software die de hardware aanstuurt, bij smartphones bestaat de logische laag voornamelijk uit de OS (operating software)
+
+besturingssysteem; software die de hardware bestuurt
+
+toepassingenlaag; de laag die bestaat uit toepassingen of applicaties (b.v.spelletjes op de telefoon)
+
+toepassingen (of applicatie); een computerprogramma bedoeld voor de eindgebruiker en niet voor de hardware
+
+Event Handler: methode die aangeroepen wordt als er een bepaalde gebeurtenis optreed
+
+Swipe, press, zoom & press: voorbeelden van events (in dit geval vingerbewegingen) 
+
+Interfaces;  verbindingen tussen de verschillende lagen en tussen de onderdelen in de lagen
+
+Hardware-interfaces; elektronische verbindingen tussen de fysieke onderdelen
+
+printplaat: plaatje waar verbindingen (meestal) in geïntergreerd worden
+
+chip: kleie chip waar onderdelen die een snellere verbinding nodig hebben in geïntergreerd worden.
+
+Connectoren: bekabelde verbindingen tussen verschillende apparaten 
+
+Drivers: Voorbeeld van een interface tussen hard- en software
+
+Application Programming Interfaces: Software-interfaces die zorgen tussen de communicatie van verschillende software-onderdelen
+
+consistensie: wannee alle apps opeen vergelijkbare manier werken
+
+web-API: de interface tussen de app end e database waarin alle gegevens zijn opgeslagen
+
+userinterface;de bekendste soort interface die zorgt voor de communicatie tussen een apparaat en een gebruiker.
+
+GUI: de grafische verbinding tussen de gebruiker en het apparaat. 
+
+events: Alle handelingen van gebruikers vertaald door het besturingssysteem	
+
+VUI (Voice User Interface); Maakt stembediening van een apparaat mogelijk.
+
+CLI (Command Line user Interface); Maakt het aansturen van servers op afstand mogelijk
+
+Remote: op afstand
+
+LAN (Local Area Network): Het netwerk binnen een gebouw
+
+4G: een voorbeeld van een mobielcommunicatienetwerk over een grote afstand 
+
+Netwerkprotocollen: afspraken over de manier waarop data getransporteerd moet worden
+
+Internet Protcol (IP): Een protocol dat beschrijft hoe ieder apparaat in een netwerk een adres krijgt
+
+HTTP (HyperText Transfer Protocol): Een protocol dat onder andere gaat over de manier waarop websites via het internet bezocht kunnen worden
+
+clients & servers: clients zijn een soort "klanten"; gebruikers van een site of app en de servers zijn de apparaten die de 'klanten' bedienen
+
+parallelle verwerking: verschillende bewerkingen die naast elkaar op het zelfde moment plaats vinden
+
+MPP (massive parallel processing): een andere term voor parallelle verwerking
+
+Raspberry Pi: De naam van diverse singleboardcomputers
+
+Personal Computer (PC): computers die geschikt zijn voor persoonlijk gebruik
+
+Mac: de desktop-PC's van Apple
+
+Embedded system: 
